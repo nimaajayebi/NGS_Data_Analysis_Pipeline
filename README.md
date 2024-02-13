@@ -2,9 +2,9 @@
 
 This pipeline is in Python for NGS Data Process and Analysis that gives an overview of the analysis done for the following paper:
 
-"Combinatorial, high‐throughput substrate specificity profiling of Streptococcus pyogenes sortase A reveals the importance of prime side residues in sortase‐mediated ligations.", 2023
+"Combinatorial, high-throughput substrate specificity profiling of Streptococcus pyogenes sortase A reveals the importance of prime side residues in sortase-mediated ligations.", 2024
 
-Zahra Ghiasi, Seyednima Ajayebi, Vidur Sharma, Luis E. Lopez de la Maza, Wen‐Ting Chen, Pedro C. Baerga, Steven Bruner, Sagar Khare, Carl A. Denard
+Zahra Ghiasi, Luis E. Lopez de la Maza, Vidur Sharma, Seyednima Ajayebi, Wen-Ting Chen, Pedro C. Baerga, Steven Bruner, Sagar Khare, Carl A. Denard  
 
 
 
